@@ -1,0 +1,108 @@
+a{
+    margin: 0;
+    padding: 0;
+}
+
+.sobreMaior{
+   
+    width: none;
+    max-width: 800px;
+   
+    border: 2px solid #000000;
+  
+    margin: 0px auto;
+}
+
+.sobreMaior h1{
+    color: #050505;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.secao {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: center;
+}
+
+.sobreMaior strong {
+  text-align: center;
+  display: block;
+}
+
+.sobreMaior h2.taylor-swift {
+  color: rgb(50, 128, 102);
+}
+
+.sobreMaior h2.Fearless{
+  color: rgb(218, 206, 42);
+}
+
+.sobreMaior h2.Speak-Now{
+  color: rgb(121, 28, 207);
+}
+.sobreMaior h2.RED{
+  color: rgb(218, 28, 28);
+}
+
+.sobreMaior h2.ERA-1989{
+  color: rgb(66, 139, 199);
+}
+
+.sobreMaior h2.Lover{
+  color: rgb(201, 82, 165);
+}
+
+.sobreMaior h2.Reputation{
+  color: rgb(45, 45, 46);
+}
+
+.sobreMaior h2.Folklore{
+  color: rgb(120, 118, 122);
+}
+
+.sobreMaior h2.Evermore{
+  color: rgb(109, 69, 35);
+}
+.sobreMaior h2.Midnights{
+  color: rgb(39, 49, 145);
+}
+
+.sobreMaior h2.The-Tortured-Poets-Department{
+  color: rgb(85, 81, 82);
+}
+
+body{
+  background-color: #c5c4c4;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sobreMaior {
+  border: 3px solid #7c1e1e;      
+  background-color: #f2d6d6;    
+}
+
+hr{
+  color: #3b3b3b;
+  border: none;
+  border-top: 3px solid #8b1e1e;
+
+}
+
